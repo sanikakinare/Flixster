@@ -8,4 +8,4 @@ Submitted by: Sanika Kinare
 Time Spend: 8 hours in total
 
 A video walkthrough has been implemented as well. Here's the link:
-<img src='walkthrough.gif> title='Video Walkthrough>
+https://github.com/sanikakinare/Flixster#:~:text=28%20minutes%20ago-,walkthrough.gif,-Add%20files%20via
