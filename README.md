@@ -8,3 +8,4 @@ Submitted by: Sanika Kinare
 Time Spend: 8 hours in total
 
 A video walkthrough has been implemented as well. Here's the link:
+<img src='walkthrough.gif> title='Video Walkthrough>
